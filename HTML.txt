@@ -3,3 +3,34 @@ HTML nedir? (Hypertext Markup Language)
 Hiper Metin İşaretleme Dili web sayfalarını oluşturmak için kullanılan standart metin işaretleme dilidir. Dilin son sürümü HTML5'tir. 
 HTML, bir programlama dili olarak tanımlanamaz. Zira HTML kodlarıyla kendi başına çalışan bir program yazılamaz. 
 HTML dosyasının uzantısı ".html" olmak zorundadır.
+
+HTML'de başlıca etiketler bulunur, bunlar;
+
+1- <html>
+2- <head>
+3- <body>
+4- ve Head etiketinin içerisinde bulunan <title> etiketidir.
+
+
+Örnek;
+
+
+<html>
+
+    <head>
+
+        Arkaplanda olacak işlemleri, yani kullanıcının görmeyeceği işlemleri bu kısıma yazıyoruz. Kullanıcı bu kısımda sadece <title> etiketini görebiliyor.
+
+    </head>
+
+
+    <body>
+
+    Kullanıcının bir HTML sayfasına, Web sayfasına girdikten sonra görünücek kısımlarıda <body> kısmına yazıyoruz.
+
+    </body>
+
+</html>
+
+
+
