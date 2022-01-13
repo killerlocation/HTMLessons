@@ -1,1 +1,21 @@
 Her HTML etiketi, bir görüntü seviyesine sahiptir ve HTML'de iki tür görüntü seviyesi mevcut. Bunlardan biri 'Block' bir diğeri ise 'Inline'.
+
+DİV etiketi : Block Seviyesinden
+SPAN etiketi: Inline Seviyesinden
+
+en yaygın olarak kullanılan, HTML sayfalarında en çok karşılaşacağımız iki etikettir.
+
+HTML tarafında DİV-SPAN'ın hiç bir işlevi yoktur.
+
+DİV;
+
+Block seviyesinden DİV etiketini en çok Container amaçlı kullanıyoruz. Div etiketi genel olarak kapsayıcı etiket olarak kullanılır. Başka hiç bir özel görevi yok.
+
+SPAN;
+
+Span'da aynı şekilde satır içi bir değer girileceği zaman bu etiketi kullanırız.
+
+
+
+
+Aslında bu etiketlerin amacı CSS ile beraber ortaya çıkıyor.
