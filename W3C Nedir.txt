@@ -1,0 +1,9 @@
+W3C Nedir? 
+
+Dünya Çapında Ağ Konsorsiyumu, Ekim 1994'te Ağ'ın mucidi Tim Berners-Lee tarafından MIT ve CERN bünyesinde kurulmuş olan 
+uluslararası Dünya Çapında Ağ standartlarını belirleyen örgüttür.
+
+Sitenin içerisine bir Validate yerleştirmişlerdir, bu sistem sayesinde HTML kodlarımızın doğru standartlarında yazıldığını anlayabiliriz.
+
+https://validator.w3.org/
+
