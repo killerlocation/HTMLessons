@@ -1,0 +1,1 @@
+Her HTML etiketi, bir görüntü seviyesine sahiptir ve HTML'de iki tür görüntü seviyesi mevcut. Bunlardan biri 'Block' bir diğeri ise 'Inline'.
