@@ -1,0 +1,14 @@
+HTML'in ifadeleri biçimlendirmek yani onlara yeni stiller katmak için belli başlı etiketleri vardır. Bunların listesi;
+
+<b> - Kalın yazı
+<strong> - Önemli yazı
+<i> - Eğik yazı
+<em> - Vurgulanmış yazı
+<mark> - İşaretli yazı (Kitap okurken önemli bir yerin üstünü sarı kalemle çizerdik, tam olarak bu ^^)
+<small> - Küçük yazı (Büyük harfle bile yazılsa normal yazıdan daha küçük görünür)
+<del> - Silinmiş yazı (Silinmiş yazının ne işi var demeyin, örneğin ürünün fiyatı değiştiğinde üstünü çizip yeni fiyatını yazarlar, buda o mantıkta)
+<ins> - Eklenmiş yazı
+<sub> - Alt simge yazı
+<sup> - Üst simge yazı
+
+Gelin tüm bu etiketleri tek bir sayfada tanımlayıp kullanalım ve nasıl gözüktüklerine bir bakalım. (Index.HTML)
